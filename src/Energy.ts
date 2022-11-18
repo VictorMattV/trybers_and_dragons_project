@@ -4,3 +4,8 @@ export default interface Energy {
   type_: EnergyType,
   amount: number
 }
+
+export default interface Energy {
+  type_: EnergyType,
+  amount: number
+}
